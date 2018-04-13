@@ -1,15 +1,103 @@
 /*-----------------------------------Global Start-----------------------------*/
+.name {
+  background-color: #4aaaa5;
+  height: 65px;
+  width: 200px;
+  color: #fff;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.main_menu {
+  padding: 5px 30px 5px 0;
+  text-align: right;
+  background-color: #fff;
+  line-height: 32px;
+}
+
+.main_menu li {
+  display: inline;
+  padding: 0 10px 0 10px;
+}
+
+.main_menu a {
+  text-decoration: none;
+  color: #777777;
+  padding: 8px;
+}
+
 /*-------------------------------------Global End-----------------------------*/
 
 /*-------------------------------------Index start----------------------------*/
+
+.about {
+  color: #4aaaa5;
+}
+
 .myimage {
   width: 200x;
   height: 200px;
 }
+
+p {
+  color: #777777;
+}
+
 /*-------------------------------------Index End------------------------------*/
 
 /*-------------------------------------Portfolio Start------------------------*/
+
+h2 {
+  color: #4aaaa5;
+}
+
+.image1 {
+  width: 200px;
+  height: 200px;
+}
+
+.image2 {
+  width: 200px;
+  height: 200px;
+}
+
+.image3 {
+  width: 200px;
+  height: 200px;
+}
+
+.image4 {
+  width: 200px;
+  height: 200px;
+}
+
+.image5 {
+  width: 200px;
+  height: 200px;
+}
+
 /*-------------------------------------Portfolio End-------------------------*/
 
 /*-------------------------------------Contact Start-------------------------*/
+.btn {
+  background-color: #4aaaa5;
+  height: 30px;
+  width: 80px;
+}
+
+.wrapper {
+  width: 400px;
+}
+
+.seror {
+  padding-right: 400px;
+}
+
+.gmail {
+  padding-right: 400px;
+}
+
+.message {
+  padding: 0 400px 100px 0;
+}
 /*-------------------------------------Contact End---------------------------*/
